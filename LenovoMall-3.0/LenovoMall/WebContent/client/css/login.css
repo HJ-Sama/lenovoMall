@@ -1,0 +1,81 @@
+body
+{
+	background-color: #C0C0C0;
+}
+
+/*登录界面*/
+.login_main
+{
+	background-color: #FFFFFF;
+	width: 30%;
+	margin: auto;
+}
+
+/*总体属性*/
+.login_main div
+{
+	padding-bottom: 14px;
+	text-align: center;
+    line-height: 30px;
+}
+/*头部*/
+.title
+{
+	padding-top: 25px;
+	margin-top: 60px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 30px;
+    padding-bottom: 25px;
+}
+/*登录*/
+.input_account
+{
+	width: 258px;
+    border: 1px solid #d6d6d6;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 14px;
+}
+/*密码*/
+.input_pwd
+{
+	width: 258px;
+    border: 1px solid #d6d6d6;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 20px;
+    padding-right: 50px;
+    font-size: 14px;
+}
+/*自动登录*/
+.check
+{
+	padding-bottom: 14px;
+	text-align: left;
+    line-height: 30px;
+    margin-right: 258px;
+}
+/*登录*/
+.button input
+{
+	width: 328px;
+    height: 44px;
+    font-size: 14px;
+    background-color:  #e22319;
+    color: #FFFFFF;
+}
+/*快捷*/
+
+.fast a
+{
+	text-decoration: none;
+	padding-right: 5px;
+	color: #000000;
+}
+.fast .login_fast
+{
+    color: #FF0000;
+}

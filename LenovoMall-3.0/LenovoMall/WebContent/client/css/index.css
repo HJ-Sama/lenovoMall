@@ -1,0 +1,34 @@
+/* ���Թ���ǩ��ʽ */
+.tabswitch-title{
+	height: 104px;
+	background-color: #C5C0C0;
+	line-height: 104px;
+	font-size: 32px;
+	text-align: center;
+	margin-top: 35px !important;
+}
+
+.tabswitch-title p{
+	padding: 0;
+	margin: 0 auto;
+	width: 364px;
+	height: 104px;
+	font-size: 32px;
+}
+
+.tabswitch-list{
+	height: 150px;
+	background-color: white;
+	text-align: center;
+}
+
+.tabswitch-list li{
+	width: 297px;
+	height:  56px;
+	float: left;
+	margin-top: 22px !important;
+}
+
+.tabswitch-list p{
+	text-align: center;
+}
